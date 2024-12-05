@@ -10,9 +10,9 @@ To use a different model, visit ImageAI GitHub, download the desired model packa
 ## K-Nearest Neighbor
 This folder contains code for implementing the K-Nearest Neighbor (KNN) algorithm with the classic Iris dataset.
 
-- iris_learning: A project where I learned the KNN algorithm, implemented it from scratch, and explored its basics. I also incorporated the Decision Tree model and used Joblib for model persistence.
+* iris_learning: A project where I learned the KNN algorithm, implemented it from scratch, and explored its basics. I also incorporated the Decision Tree model and used Joblib for model persistence.
 
-- iris_elbow: An enhancement to the KNN model, where I added functionality to plot the error rates at various values of k. This helps users evaluate the best value of k based on the plot for optimal results.
+* iris_elbow: An enhancement to the KNN model, where I added functionality to plot the error rates at various values of k. This helps users evaluate the best value of k based on the plot for optimal results.
 
 ### Additional Files
 *NumPy and Pandas Cheatsheet: A quick reference with code snippets and comments for working with the NumPy and Pandas libraries.
