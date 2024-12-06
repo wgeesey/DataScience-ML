@@ -1,6 +1,7 @@
 # Data Science Files
 
 A collection of data science and machine learning projects I have worked on. These include projects built from tutorials, self-developed models, or ones where I’ve added new functionality.
+__Files may be heavy on comments, they wouldn't be as comment-heavy in a real-life environment, to aid in understanding for myself and anyone that comes across the code.__
 
 ## Image Prediction
 This project uses ImageAI to process image files and make predictions about their content. The current model in use is MobileNetV2, selected for its balance of accuracy and lighter data/storage requirements.
