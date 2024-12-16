@@ -23,3 +23,5 @@ This folder contains code for implementing the K-Nearest Neighbor (KNN) algorith
   * Iris Notebook: Includes visualizations and serves as a cheat sheet for the Iris dataset, demonstrating basic data analysis and plotting.
   
   * Soccer Notebook: Analyzes and plots data on soccer player wages and values from the FIFA 23 dataset (included as a .csv). This allows a hypothetical General Manager to assess player worth for potential trades or acquisitions.
+
+  * Python SQL Import: Takes a .csv file and imports it into SQL Server. It is formatted for use with .csv column names that contain spaces.
