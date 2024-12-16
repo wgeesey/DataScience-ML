@@ -16,7 +16,7 @@ This folder contains code for implementing the K-Nearest Neighbor (KNN) algorith
 * iris_elbow: An enhancement to the KNN model, where I added functionality to plot the error rates at various values of k. This helps users evaluate the best value of k based on the plot for optimal results.
 
 ### Additional Files
-*NumPy and Pandas Cheatsheet: A quick reference with code snippets and comments for working with the NumPy and Pandas libraries.
+* NumPy and Pandas Cheatsheet: A quick reference with code snippets and comments for working with the NumPy and Pandas libraries.
 
 * Jupyter Notebooks:
 
